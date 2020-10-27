@@ -18,3 +18,6 @@
 [website]: https://rellow.se
 [instagram]: https://www.instagram.com/devpaps/
 [twitter]: https://twitter.com/devpaps
+
+https://github-readme-stats.vercel.app/api?username=devpaps&hide=issues
+[![devpaps stats](https://github-readme-stats.vercel.app/api?username=devpaps&hide=issues)]
