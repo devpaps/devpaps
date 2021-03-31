@@ -11,9 +11,9 @@
 
 ### Connect with me
 
-🎉 [website]  
-🐦 [twitter]  
-📷 [instagram]
+🎉  [website]  
+🐦  [twitter]  
+📷  [instagram]
 
 [website]: https://rellow.se
 [instagram]: https://www.instagram.com/devpaps/
