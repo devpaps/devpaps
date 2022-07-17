@@ -5,9 +5,9 @@
 ### I got three wonderful children and lovely woman by my side
 
 - 💩 I got a pretty funny humor
-- 💾 I'm currently studying .net/C#/React for two years at the vocational university here in Sweden
+- 💾 React and Next.js is my way to go!
 - 🏋️‍♂️ I'm doing all the time i can at the gym
-- 👨‍💻 React is the one library i love to work with, but i'm pretty stoked about .net/C# right now
+- 👨‍💻 React is the one library i love to work with, but i'm pretty stoked about Rust & Go right now
 
 ### Connect with me
 
