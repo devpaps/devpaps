@@ -18,8 +18,3 @@
 [website]: https://rellow.se
 [instagram]: https://www.instagram.com/devpaps/
 [twitter]: https://twitter.com/devpaps
-
-
-
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=devpaps&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
