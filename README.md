@@ -1,20 +1,25 @@
-﻿# Hi my name is Lars, i'm a Swedish developer 👋
+# 👋 Hej, I'm Lars! A passionate full-stack developer from Sweden.
 
-## About me
+## 🧑‍💻 About Me
 
-### I got three wonderful children and lovely woman by my side
+I'm a React & Next.js enthusiast with a healthy curiosity for Rust & Go. Always looking for new challenges to further expand my knowledge. In between coding, you can usually find me spending quality time with my three wonderful children and my lovely partner. Did I mention I have a pretty funny sense of humor? Well, at least I like to think so! 😆
 
-- 💩 I got a pretty funny humor
-- 💾 React and Next.js is my way to go!
-- 🏋️‍♂️ I'm doing all the time i can at the gym
-- 👨‍💻 React is the one library i love to work with, but i'm pretty stoked about Rust & Go right now
+When I'm not programming, I'm likely pumping iron at the gym 🏋️‍♂️, nurturing both the body and the mind!
 
-### Connect with me
+## 🛠️ Tech Stack
 
-🎉  [website]  
-🐦  [twitter]  
-📷  [instagram]
+Here's a list of things I currently work with or am studying:
 
-[website]: https://rellow.se
-[instagram]: https://www.instagram.com/devpaps/
-[twitter]: https://twitter.com/devpaps
+* React & Next.js
+* Rust
+* JavaScript & TypeScript
+* Node.js
+* C#
+
+## :bell: Connect with me
+
+Feel free to connect with me. I'd love to chat about all things tech!
+
+:earth_africa:[Website](https://rellow.se) &nbsp;
+:bird:[Twitter](https://twitter.com/devpaps) &nbsp;
+:camera:[Instagram](https://www.instagram.com/devpaps/)
