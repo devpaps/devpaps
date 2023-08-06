@@ -1,6 +1,6 @@
 # 👋 Hej, I'm Lars! A full-stack developer from Sweden.
 
-## 🧑‍💻 About Me
+## About Me
 
 I'm a React & Next.js enthusiast with a healthy curiosity for Rust and low-level programming. I'm always looking for new challenges to further expand my knowledge in this vast space of tech. In between coding, you can usually find me spending quality time with my three wonderful children and my lovely partner. Did I mention I have a pretty funny sense of humor? Well, at least I like to think so! 😆
 
