@@ -12,6 +12,7 @@ Here's a list of things I currently work with or am studying:
 
 * React & Next.js
 * Rust
+* C
 * JavaScript & TypeScript
 * Lua
 
