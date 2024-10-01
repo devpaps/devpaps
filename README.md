@@ -20,6 +20,5 @@ Here's a list of things I currently work with or am studying:
 
 Feel free to connect with me. I'd love to chat about all things tech!
 
-🌍 [Website](https://rellow.se) &nbsp; </br>
-🐦 [X](https://twitter.com/devpaps) &nbsp; </br>
+🐦 [X](https://x.com/DevPaps) &nbsp; </br>
 📸 [Instagram](https://www.instagram.com/devpaps/)
