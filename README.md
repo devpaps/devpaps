@@ -2,9 +2,9 @@
 
 ## About Me
 
-I'm a code enthusiast with a healthy curiosity for Rust and low-level programming. I'm always looking for new challenges to further expand my knowledge in this vast space of tech. In between coding, you can usually find me spending quality time with my three wonderful children and my lovely partner. Did I mention I have a pretty funny sense of humor? Well, at least I like to think so! 😆
+I'm a code enthusiast with a healthy curiosity for low-level programming. I'm always looking for new challenges to further expand my knowledge in this vast space of tech. In between coding, you can usually find me spending quality time with my three wonderful children and my lovely partner. Did I mention I have a pretty funny sense of humor? Well, at least I like to think so! 😆
 
-When I'm not programming, I'm likely pumping iron at the gym 🏋️‍♂️ or hiking with the family 🥾, nurturing both the body and the mind, 
+When I'm not programming, I'm likely spending time at the gym. 🏋️‍♂️
 
 ## 🛠️ Tech Stack
 
