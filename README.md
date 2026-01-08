@@ -1,24 +1,14 @@
-# 👋 Hej, I'm Lars! A developer from Sweden.
+# 👋 Hej,こんにちは, I'm Lars! A developer from Sweden.
 
-## About Me
+I'm from the northen part of sweden, aka [Norrland](https://en.wikipedia.org/wiki/Norrland). Here i spend time thinking outside in the nature, often in the woods near a small creek.
+I am very into the Japanese Zen philosphy and the principles of the Japanese minimalism:
+* **Wabi, 侘び** - Simple and natural. Imperfect is also beautiful.
+* **Ma, 間** - White space.
+* **Kanso, 簡素** - Remove what is unnecessary.
+* **Seijaku, 静寂** - Finding peace and clarity in a world of constant motion.
 
-I'm a code enthusiast with a healthy curiosity for low-level programming. I'm always looking for new challenges to further expand my knowledge in this vast space of tech. In between coding, you can usually find me spending quality time with my three wonderful children and my lovely partner. Did I mention I have a pretty funny sense of humor? Well, at least I like to think so! 😆
+These are some of the priciples i try to live and act by in my life. I also think about it when i'm doing technical things, like developing a website for a client or something for myself. It really helps me to understand myself and what i'm trying to achieve - without rushing ahead, as i think we tend to do in this fast society. It all lies in the eyes of the beholder.
 
-When I'm not programming, I'm likely spending time at the gym. 🏋️‍♂️
+[Instagram](https://www.instagram.com/devpaps/)
 
-## 🛠️ Tech Stack
-
-Here's a list of things I currently work with or am studying:
-
-* React & Next.js
-* Rust
-* C
-* JavaScript & TypeScript
-* Lua
-
-## :bell: Connect with me
-
-Feel free to connect with me. I'd love to chat about all things tech!
-
-🐦 [X](https://x.com/DevPaps) &nbsp; </br>
-📸 [Instagram](https://www.instagram.com/devpaps/)
+[My website](https://noveris.se/)
